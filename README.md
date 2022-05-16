@@ -1,3 +1,6 @@
+# How to build
+Git clone then follow https://blog.actorsfit.com/a?ID=00450-b67fc16a-5be8-4ea0-b72f-e5f9a36cc72a
+
 What is Pangolin
 ====================================
 
